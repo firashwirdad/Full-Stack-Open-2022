@@ -1,4 +1,4 @@
-## Exercise 0.3: HTML forms
+## Exercise 0.4: New note
 
 ```mermaid
 sequenceDiagram
@@ -23,3 +23,5 @@ sequenceDiagram
     Browser-->>Server: Request HTTP GET .../data.json
     Server->>Viewscreen: data.json code
 ```
+
+## Exercise 0.5: Single page app
